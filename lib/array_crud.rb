@@ -32,7 +32,7 @@ def retrieve_first_element_from_array(array = ["dog", "cat"])
 end
 
 def retrieve_last_element_from_array(array = ["dog", "cat"])
-  
+  array[-1]
 end
 
 def update_element_from_index(array = ["dog", "cat"], index_number = 1, element = "bird")

@@ -31,7 +31,7 @@ def retrieve_first_element_from_array(array = ["dog", "cat"])
   
 end
 
-def retrieve_last_element_from_array(array = ["dog"])
+def retrieve_last_element_from_array(array = ["dog", "cat"])
   
 end
 
